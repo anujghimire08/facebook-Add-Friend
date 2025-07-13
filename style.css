@@ -1,0 +1,29 @@
+.boxes{
+  background-color: aqua;
+  text-align: center;
+  width: fit-content;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.box1{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.box2{
+  background-color: chartreuse;
+  width: 200px;
+  height: 200px;
+
+}
+.box3{
+  background-color: blueviolet;
+  width: 200px;
+  height: 200px;
+
+}
